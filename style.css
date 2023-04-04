@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 2px;
+}
+h1{
+    font-size: 48px;
+    font-weight: 400;
+}
+
+input{
+    background-color: black;
+    margin-right: 2.5px;
+    margin-bottom: 2px;
+    width: 430px;
+    height: 40px;
+   
+    border: 1px solid whitesmoke;
+    color: white;
+    padding-left: 1px;
+    font-size: 20px;
+}
+
+
+table,th,td{
+    border: 1px solid whitesmoke;
+    border-collapse: collapse;
+}
+th{
+    padding: 10px;
+    font-weight: 400;
+    text-align: start;
+}
+table{
+    width: 93vw;
+}
+td{
+    border: none;
+    text-align: start;
+    padding: 10px;
+    border-right: 1px solid whitesmoke;
+}
+.edit{
+    margin-right: 10px;
+}
+
+
+
+#submit{
+    width: 600px;
+    height: 40px;
+    outline: none;
+    margin-bottom: 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+
+
+
